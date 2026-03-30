@@ -1,4 +1,4 @@
-## Micro projeto - Influencer by Guilherme Matheus
+## Micro projeto - Influencer by Mittzk
 
 O programa consiste em o usuário enviar uploads e postar os mesmos.
 
